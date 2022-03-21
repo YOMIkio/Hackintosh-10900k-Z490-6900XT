@@ -150,14 +150,25 @@
 				<key>shikigva</key>
 				<integer>80</integer>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>@0,name</key>
+				<string>ATY,Carswell</string>
+				<key>@1,name</key>
+				<string>ATY,Carswell</string>
+				<key>@2,name</key>
+				<string>ATY,Carswell</string>
+				<key>@3,name</key>
+				<string>ATY,Carswell</string>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
 				<key>device_type</key>
 				<string>Audio device</string>
 				<key>layout-id</key>
-				<integer>28</integer>
+				<integer>27</integer>
 				<key>model</key>
-				<string>Realtek ALC1220-VB</string>
+				<string>Realtek ALC1220</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
